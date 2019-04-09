@@ -2,7 +2,6 @@ packages/
 bin/
 obj/
 PerfLogs/
-Properties/
 ChronoMetro.csproj.user
 ChronoMetro.suo
 ChronoMetro.v12.suo
